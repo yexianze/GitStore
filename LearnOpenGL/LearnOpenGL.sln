@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloGLWindow", "src\HelloGLWindow\HelloGLWindow.vcxproj", "{922D4845-CC5C-4EED-B7E4-87ECCC382C99}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloShader", "src\HelloShader\HelloShader.vcxproj", "{EFD66F3E-5D5B-4157-BAA2-494386821192}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloTriangle", "src\HelloTriangle\HelloTriangle.vcxproj", "{F78D9035-F3F8-4EE3-8903-F6C38BD5E917}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloTexture", "src\HelloTexture\HelloTexture.vcxproj", "{CEB68155-E7D4-4191-B2E6-8BE75D9120B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{922D4845-CC5C-4EED-B7E4-87ECCC382C99}.Debug|Win32.ActiveCfg = Debug|Win32
+		{922D4845-CC5C-4EED-B7E4-87ECCC382C99}.Debug|Win32.Build.0 = Debug|Win32
+		{922D4845-CC5C-4EED-B7E4-87ECCC382C99}.Release|Win32.ActiveCfg = Release|Win32
+		{922D4845-CC5C-4EED-B7E4-87ECCC382C99}.Release|Win32.Build.0 = Release|Win32
+		{EFD66F3E-5D5B-4157-BAA2-494386821192}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EFD66F3E-5D5B-4157-BAA2-494386821192}.Debug|Win32.Build.0 = Debug|Win32
+		{EFD66F3E-5D5B-4157-BAA2-494386821192}.Release|Win32.ActiveCfg = Release|Win32
+		{EFD66F3E-5D5B-4157-BAA2-494386821192}.Release|Win32.Build.0 = Release|Win32
+		{F78D9035-F3F8-4EE3-8903-F6C38BD5E917}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F78D9035-F3F8-4EE3-8903-F6C38BD5E917}.Debug|Win32.Build.0 = Debug|Win32
+		{F78D9035-F3F8-4EE3-8903-F6C38BD5E917}.Release|Win32.ActiveCfg = Release|Win32
+		{F78D9035-F3F8-4EE3-8903-F6C38BD5E917}.Release|Win32.Build.0 = Release|Win32
+		{CEB68155-E7D4-4191-B2E6-8BE75D9120B9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CEB68155-E7D4-4191-B2E6-8BE75D9120B9}.Debug|Win32.Build.0 = Debug|Win32
+		{CEB68155-E7D4-4191-B2E6-8BE75D9120B9}.Release|Win32.ActiveCfg = Release|Win32
+		{CEB68155-E7D4-4191-B2E6-8BE75D9120B9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
