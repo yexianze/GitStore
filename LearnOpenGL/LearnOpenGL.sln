@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloFramebuffer", "src\Hel
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloCubemap", "src\HelloCubemap\HelloCubemap.vcxproj", "{558B8F16-2614-4029-BA48-73AB22E6026E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloText", "src\HelloText\HelloText.vcxproj", "{FF9E11A2-5797-4119-A581-006E5AE34532}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -121,6 +123,10 @@ Global
 		{558B8F16-2614-4029-BA48-73AB22E6026E}.Debug|Win32.Build.0 = Debug|Win32
 		{558B8F16-2614-4029-BA48-73AB22E6026E}.Release|Win32.ActiveCfg = Release|Win32
 		{558B8F16-2614-4029-BA48-73AB22E6026E}.Release|Win32.Build.0 = Release|Win32
+		{FF9E11A2-5797-4119-A581-006E5AE34532}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FF9E11A2-5797-4119-A581-006E5AE34532}.Debug|Win32.Build.0 = Debug|Win32
+		{FF9E11A2-5797-4119-A581-006E5AE34532}.Release|Win32.ActiveCfg = Release|Win32
+		{FF9E11A2-5797-4119-A581-006E5AE34532}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -143,5 +149,6 @@ Global
 		{367A738C-05F0-438F-918C-EC06FCE85720} = {16179873-A4DA-4991-9C27-C6DD41D85563}
 		{0ED3DE80-8C48-448E-B070-1CEE38187D32} = {16179873-A4DA-4991-9C27-C6DD41D85563}
 		{558B8F16-2614-4029-BA48-73AB22E6026E} = {16179873-A4DA-4991-9C27-C6DD41D85563}
+		{FF9E11A2-5797-4119-A581-006E5AE34532} = {16179873-A4DA-4991-9C27-C6DD41D85563}
 	EndGlobalSection
 EndGlobal
