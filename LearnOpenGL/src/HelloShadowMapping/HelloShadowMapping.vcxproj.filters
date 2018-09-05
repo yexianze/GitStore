@@ -18,5 +18,31 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="..\glad.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\stb_image.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="debug_quad.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="debug_quad.vs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="shadow_mapping_depth.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="shadow_mapping_depth.vs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="shadow_mapping.vs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="shadow_mapping.fs">
+      <Filter>资源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>
